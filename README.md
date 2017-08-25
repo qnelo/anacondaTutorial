@@ -1,4 +1,4 @@
-# Tutorial de anaconda
+# Tutorial Machine Learning con Anaconda y Junyper Notebook
 ## Prólogo
 El presente proyecto tiene por objetivo ser un tutorial educativo con el cual lo aprendido por mi pueda ser compartido a la comunidad.
 ## Machine Learning
